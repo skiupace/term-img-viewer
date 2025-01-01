@@ -1,0 +1,7 @@
+[package]
+name = "term-img-viewer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+viuer = { version = "0.9.1", features = ["print-file"] }
